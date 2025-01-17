@@ -2,6 +2,8 @@
 #include <cstdlib>
 #include <ctime>
 
+// CPP
+
 void welcome_message(){
 
     std::cout << "Welcome to the guessing number game \n";
